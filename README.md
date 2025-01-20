@@ -1,6 +1,6 @@
 ## Setup
 You can install Python libraries using `pip install -r requirements.txt`. Note that you need a MuJoCo license. Please follow the instructions in [mujoco-py] (https://github.com/openai/mujoco-py) for help.
-
+<!-- 
 ## Example
 ### Train expert
 You can train experts using soft actor-critic (SAC) [[1,2]](#references).  
@@ -60,6 +60,6 @@ python train_airl.py \
 ## References
 [[1]](https://arxiv.org/abs/1801.01290) Haarnoja, Tuomas, et al. "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor." arXiv preprint arXiv:1801.01290 (2018).
 
-[[2]](https://arxiv.org/abs/1812.05905) Haarnoja, Tuomas, et al. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018).
+[[2]](https://arxiv.org/abs/1812.05905) Haarnoja, Tuomas, et al. "Soft actor-critic algorithms and applications." arXiv preprint arXiv:1812.05905 (2018). -->
 
 
